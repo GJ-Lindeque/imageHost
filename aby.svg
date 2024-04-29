@@ -69,7 +69,7 @@
         </text>
         <image width="2830" height="1178" transform="translate(26.589 31.187) scale(.058)" xlink:href="https://github.com/GJ-Lindeque/imageHost/blob/e3acd13f358d7daa7857ba987f0babc1d9372d8e/egoliLogo.png"/>
         <a xlink:href="https://www.tscgroup.co.za">
-            <image width="1913" height="839" transform="translate(448.79 83.187) scale(.025)" xlink:href="https://github.com/GJ-Lindeque/imageHost/blob/e3acd13f358d7daa7857ba987f0babc1d9372d8e/tscLogo.jpg"/>
+            <image width="1913" height="839" transform="translate(448.79 83.187) scale(.025)" src="https://github.com/GJ-Lindeque/imageHost/blob/e3acd13f358d7daa7857ba987f0babc1d9372d8e/tscLogo.jpg"/>
         </a>
     </svg>
 </body>
