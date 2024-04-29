@@ -67,7 +67,7 @@
             <tspan x="72.75" y="23.42" letter-spacing="-.003em">e</tspan>
             <tspan x="78.23" y="23.42">w</tspan>
         </text>
-        <image width="2830" height="1178" transform="translate(26.589 31.187) scale(.058)" xlink:href="https://github.com/GJ-Lindeque/imageHost/blob/e3acd13f358d7daa7857ba987f0babc1d9372d8e/egoliLogo.png"/>
+        <image width="2830" height="1178" transform="translate(26.589 31.187) scale(.058)" xlink:href="https://raw.githubusercontent.com/GJ-Lindeque/imageHost/main/tscLogo.jpg"/>
         <a xlink:href="https://www.tscgroup.co.za">
             <image width="1913" height="839" transform="translate(448.79 83.187) scale(.025)" src="https://github.com/GJ-Lindeque/imageHost/blob/e3acd13f358d7daa7857ba987f0babc1d9372d8e/tscLogo.jpg"/>
         </a>
